@@ -10,4 +10,5 @@ public class Hello {
 	private static String str = "hello";
 	private static Double dd;
 	private static Integer = 1;
+	public String name;
 }
